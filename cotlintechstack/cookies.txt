@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+uniformcraft.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22INMH%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%225F8F3F35-1334-4ECF-9cee-6556f8cf3d47%22%7D
+uniformcraft.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+uniformcraft.com	TRUE	/	FALSE	1999999999	_shopify_country	India
+uniformcraft.com	TRUE	/	FALSE	1999999999	keep_alive	8cdf3be0-3fcd-4d9e-b527-2859368f2537
+uniformcraft.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+uniformcraft.com	TRUE	/	FALSE	1999999999	localization	IN
+uniformcraft.com	TRUE	/	FALSE	1999999999	_shopify_y	4ace1761-6f4f-4a4c-a6e2-b47d8266d5d7
+uniformcraft.com	TRUE	/	FALSE	1999999999	_shopify_s	d5aa3c7d-457d-4d4e-b0b1-fce619599a81
+uniformcraft.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

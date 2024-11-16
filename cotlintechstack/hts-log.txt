@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Nov 2024 23:14:59 at https://uniformcraft.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://uniformcraft.com/ -O1 "C:\My Web Sites\cotlintechstack" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:17:09	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://uniformcraft.com/)
+23:17:15	Error: 	"Not Found" (404) at link https://static.personizely.net/b2f08c104a.js (from https://uniformcraft.com/)
+23:17:15	Error: 	"Not Found" (404) at link https://uniformcraft.com/POST (from https://uniformcraft.com/)
+23:17:15	Error: 	"Error when decompressing" (-1) at link https://uniformcraft.com/cdn (from https://uniformcraft.com/)
+23:35:15	Error: 	Exit requested by shell or user
+23:35:16	Warning: 	File not added due to mirror cancel: https://uniformcraft.com/cdn/shop/files/Scrubs-Male_small.jpg?v=1686635848
+23:35:16	Error: 	"Not Found" (404) at link https://uniformcraft.com/cdn/shop/t/21/assets/owl.video.play.png (from https://uniformcraft.com/cdn/shop/t/21/assets/jquery.plugins.min.scss.css?v=65000298468817174911698489747)
+23:35:16	Error: 	"Not Found" (404) at link https://uniformcraft.com/cdn/shop/t/21/fonts/glyphicons-halflings-regular.eot (from https://uniformcraft.com/cdn/shop/t/21/assets/bootstrap.min.3x.css?v=169428775825576090431651490273)
+23:35:16	Error: 	"Not Found" (404) at link https://uniformcraft.com/cdn/shop/t/21/fonts/glyphicons-halflings-regular.eot? (from https://uniformcraft.com/cdn/shop/t/21/assets/bootstrap.min.3x.css?v=169428775825576090431651490273)
+23:35:16	Error: 	"Not Found" (404) at link https://uniformcraft.com/cdn/shop/t/21/fonts/glyphicons-halflings-regular.woff (from https://uniformcraft.com/cdn/shop/t/21/assets/bootstrap.min.3x.css?v=169428775825576090431651490273)
+23:35:16	Error: 	"Not Found" (404) at link https://uniformcraft.com/cdn/shop/t/21/fonts/glyphicons-halflings-regular.ttf (from https://uniformcraft.com/cdn/shop/t/21/assets/bootstrap.min.3x.css?v=169428775825576090431651490273)
+23:35:16	Error: 	"Not Found" (404) at link https://uniformcraft.com/cdn/shop/t/21/fonts/glyphicons-halflings-regular.svg (from https://uniformcraft.com/cdn/shop/t/21/assets/bootstrap.min.3x.css?v=169428775825576090431651490273)
+23:35:16	Error: 	"Not Found" (404) at link https://uniformcraft.com/pages/POST (from https://uniformcraft.com/pages/about-us)
+23:35:16	Error: 	"Not Found" (404) at link https://uniformcraft.com/collections/POST (from https://uniformcraft.com/collections/nurse-uniforms)
+23:35:16	Warning: 	Retry after error -2 (Receive Time Out) at link https://uniformcraft.com/cdn/shop/files/NT02-LP-FRONT_grande.jpg?v=1721472883 (from https://uniformcraft.com/collections/nurse-uniforms)
+23:35:23	Error: 	"Not Found" (404) at link https://uniformcraft.com/blogs/news/POST (from https://uniformcraft.com/blogs/news/lab-coats)
+23:35:24	Error: 	"Not Found" (404) at link https://uniformcraft.com/account/POST (from https://uniformcraft.com/account/login)
+23:35:26	Error: 	"Not Found" (404) at link https://uniformcraft.com/products/POST (from https://uniformcraft.com/products/female-scrub-suit-dsvx)
+23:35:26	Warning: 	Moved Permanently for uniformcraft.com/cdn/shop/products/DSVX-PL-Front_1024x1024.jpg?v=1700116322
+23:35:26	Warning: 	Redirected link is identical because of 'URL Hack' option: uniformcraft.com/cdn/shop/products/DSVX-PL-Front_1024x1024.jpg?v=1700116322 and https://uniformcraft.com/cdn/shop/products/DSVX-PL-Front_1024x1024.jpg?v=1700116322
+23:35:26	Warning: 	Warning moved treated for uniformcraft.com/cdn/shop/products/DSVX-PL-Front_1024x1024.jpg?v=1700116322 (real one is https://uniformcraft.com/cdn/shop/products/DSVX-PL-Front_1024x1024.jpg?v=1700116322)
+23:35:26	Error: 	"Not Found" (404) at link https://uniformcraft.com/collections/our-bestsellers/products/POST (from https://uniformcraft.com/collections/our-bestsellers/products/female-scrub-suit-dsvx)
+23:35:26	Warning: 	Moved Permanently for uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4.jpg?v=1703071442
+23:35:26	Warning: 	Redirected link is identical because of 'URL Hack' option: uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4.jpg?v=1703071442 and https://uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4.jpg?v=1703071442
+23:35:26	Warning: 	Warning moved treated for uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4.jpg?v=1703071442 (real one is https://uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4.jpg?v=1703071442)
+23:35:26	Warning: 	Moved Permanently for uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4_small.jpg?v=1703071442
+23:35:26	Warning: 	Redirected link is identical because of 'URL Hack' option: uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4_small.jpg?v=1703071442 and https://uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4_small.jpg?v=1703071442
+23:35:26	Warning: 	Warning moved treated for uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4_small.jpg?v=1703071442 (real one is https://uniformcraft.com/cdn/shop/files/1.FRONT_6_4ce0d195-bdfa-4226-ab2e-a45e017ae8f4_small.jpg?v=1703071442)
+23:35:26	Warning: 	Moved Permanently for uniformcraft.com/cdn/shop/t/21/assets/ginger-yellow.png?v=112642141786117456211651490289
+23:35:26	Warning: 	Redirected link is identical because of 'URL Hack' option: uniformcraft.com/cdn/shop/t/21/assets/ginger-yellow.png?v=112642141786117456211651490289 and https://uniformcraft.com/cdn/shop/t/21/assets/ginger-yellow.png?v=112642141786117456211651490289
+23:35:26	Warning: 	Warning moved treated for uniformcraft.com/cdn/shop/t/21/assets/ginger-yellow.png?v=112642141786117456211651490289 (real one is https://uniformcraft.com/cdn/shop/t/21/assets/ginger-yellow.png?v=112642141786117456211651490289)
+23:35:26	Error: 	"Cancelled by User" (-1) at link https://uniformcraft.com/cdn/shop/files/OCEANBLUE_2_852fa6ad-5449-4b4f-9309-b2665fc5732d.jpg?v=1713176208 (from https://uniformcraft.com/products/male-support-staff-mss02)
+23:35:26	Warning: 	File not added due to mirror cancel: https://uniformcraft.com/cdn/shop/files/NT02-LP-FRONT_grande.jpg?v=1721472883
+23:35:26	Error: 	"mirror stopped by user" (-1) at link https://uniformcraft.com/cdn/shop/files/NT02-LP-FRONT_grande.jpg?v=1721472883 (from https://uniformcraft.com/collections/nurse-uniforms)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 27 seconds : 1057 links scanned, 1033 files written (98215470 bytes overall) [59228748 bytes received at 48271 bytes/sec], 51210764 bytes transferred using HTTP compression in 317 files, ratio 17%, 32.5 requests per connection
+(19 errors, 15 warnings, 0 messages)

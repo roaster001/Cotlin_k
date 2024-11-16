@@ -1,0 +1,3864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/all.atom</id>
+  <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/all"/>
+  <link rel="self" type="application/atom+xml" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/nurse-uniforms.atom"/>
+  <title>Uniform Craft</title>
+  <updated>2024-11-12T17:18:21+05:30</updated>
+  <author>
+    <name>Uniform Craft</name>
+  </author>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8600338202873</id>
+    <published>2024-11-12T17:18:21+05:30</published>
+    <updated>2024-11-12T17:18:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-nurse-uniform-nt02"/>
+    <title>Female Nurse Uniform NT02 Only Top</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/NT02-BP.jpg?v=1731411847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:tag>UC-NT02</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8600338202873</id>
+      <title>S / Bright Purple</title>
+      <s:price currency="INR">550.00</s:price>
+      <s:sku>NT02-BP-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8600338202873</id>
+      <title>M / Bright Purple</title>
+      <s:price currency="INR">550.00</s:price>
+      <s:sku>NT02-BP-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8600338202873</id>
+      <title>L / Bright Purple</title>
+      <s:price currency="INR">550.00</s:price>
+      <s:sku>NT02-BP-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8600338202873</id>
+      <title>XL / Bright Purple</title>
+      <s:price currency="INR">550.00</s:price>
+      <s:sku>NT02-BP-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+    <published>2022-03-09T14:43:15+05:30</published>
+    <updated>2022-03-09T14:43:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/male-support-staff-shirt-mnt03"/>
+    <title>Male Nurse Shirt - MNT03</title>
+    <s:type>Male Nurse Shirt</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/MNT03IndigoShirt.jpg?v=1655716677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Male Nurse Shirt<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Indigo / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-IN-36</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Indigo / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-IN-38</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Indigo / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-IN-40</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Indigo / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-IN-42</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Indigo / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-IN-44</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Indigo / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-IN-46</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Plum / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-PLM-36</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Plum / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-PL-38</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Plum / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-PL-40</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Plum / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-PL-42</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Plum / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-PL-44</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7557343150329</id>
+      <title>Plum / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT03-PL-46</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+    <published>2022-01-31T21:33:46+05:30</published>
+    <updated>2022-01-31T21:33:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-female-nurse-uniform-nt02"/>
+    <title>Female Nurse Uniform NT13</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NC01GreyLimeGreenFront.jpg?v=1643644669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Lime / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRLG-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Lime / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRLG-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Lime / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRLG-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Lime / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRLG-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Lime / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRLG-2XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Lime / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRLG-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Aqua / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRAQ-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Aqua / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRAQ-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Aqua / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRAQ-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Aqua / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRAQ-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Aqua / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRAQ-2XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7526063505657</id>
+      <title>Grey Aqua / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT13-GRAQ-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+    <published>2022-01-31T16:03:17+05:30</published>
+    <updated>2022-01-31T16:03:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-female-nurse-uniform-nt05"/>
+    <title>Female Nurse Uniform NT12</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT12L.Tealfront.jpg?v=1643625335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Fabric</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Polyester Cotton Chambray with Printed Panels</li>
+<li data-mce-fragment="1">NOT Bleach Resistant</li>
+<li data-mce-fragment="1">Colour may vary according to screen setting &amp; resolutions</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Uniform</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Sold as a set</li>
+<li data-mce-fragment="1">Top - One pocket</li>
+<li data-mce-fragment="1">Trouser - Back elastic, front drawstring with finished length</li>
+<li data-mce-fragment="1">Trouser -  One side pocket</li>
+<li data-mce-fragment="1">Ideal for user height 5’2’’ to 5’5’’</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Wash Care</strong></p>
+<p data-mce-fragment="1">Our uniforms lasts long if you care for it right.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Warm Machine Wash with similar colours, </li>
+<li data-mce-fragment="1">Wash Inside out, </li>
+<li data-mce-fragment="1">Do not bleach, </li>
+<li data-mce-fragment="1">Line dry in shade, </li>
+<li data-mce-fragment="1">Warm Iron.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>S / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-AQ-S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>S / Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-Pink-S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>S / Light Purple</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-PU-S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>M / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-AQ-M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>M / Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-Pink-M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>M / Light Purple</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-PU-M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>L / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-AQ-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>L / Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-Pink-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>L / Light Purple</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-PU-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XL / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-AQ-XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XL / Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-Pink-XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XL / Light Purple</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-PU-XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XXL / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-AQ-2XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XXL / Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-Pink-2XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XXL / Light Purple</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-PU-2XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XXXL / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-AQ-3XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XXXL / Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-Pink-3XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7525844451577</id>
+      <title>XXXL / Light Purple</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT12-PU-3XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+    <published>2021-11-05T12:26:21+05:30</published>
+    <updated>2021-11-05T12:26:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-nurse-uniform-nt08"/>
+    <title>Female Nurse Uniform NT08</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT08-PL-45.jpg?v=1636096224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>S / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-IN-S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>S / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-PL-S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>S / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-AQ-S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>M / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-IN-M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>M / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-PL-M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>M / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-AQ-M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>L / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-IN-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>L / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-PL-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>L / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-AQ-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XL / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-IN-XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XL / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-PL-XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XL / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-AQ-XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XXL / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-IN-2XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XXL / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-PL-2XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XXL / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-AQ-2XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XXXL / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-IN-3XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XXXL / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-PL-3XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7240850440342</id>
+      <title>XXXL / Aqua</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT08-AQ-3XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+    <published>2021-07-20T13:36:45+05:30</published>
+    <updated>2021-07-20T13:36:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-nurse-uniform-nt05"/>
+    <title>Female Nurse Uniform NT05</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT05-blue-front.jpg?v=1636099611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>S / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-RB-S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>S / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-PL-S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>M / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-RB-M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>M / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-PL-M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>L / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-RB-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>L / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-PL-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>XL / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-RB-XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>XL / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-PL-XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>XXL / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-RB-XXL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>XXL / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-PL-XXL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>XXXL / Indigo</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-RB-3XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6946876293270</id>
+      <title>XXXL / Plum</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT05-PL-3XL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+    <published>2020-10-25T16:21:00+05:30</published>
+    <updated>2020-10-25T16:21:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-nurse-uniform-nt06"/>
+    <title>Female Nurse Uniform NT06</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT06-PLNB-front.jpg?v=1617180767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Plum / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-PL-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Plum / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-PL-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Plum / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-PL-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Plum / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-PL-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Plum / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-PL-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Plum / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-PL-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Ash Green / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-AGGR-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Ash Green / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-AGGR-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Ash Green / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-AGGR-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Ash Green / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-AGGR-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Ash Green / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-AGGR-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Ash Green / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-AG-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Beige / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-BGNB-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Beige / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-BGNB-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Beige / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-BGNB-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Beige / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-BGNB-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Beige / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-BGNB-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Beige / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-BG-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Lavendar / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-LAV-WN-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Lavendar / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-LAV-WN-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Lavendar / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-LAV-WN-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Lavendar / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-LAV-WN-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Lavendar / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-LAV-WN-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5857865105558</id>
+      <title>Lavendar / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT06-LAV-WN-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+    <published>2020-07-06T08:34:56+05:30</published>
+    <updated>2020-07-06T08:34:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/male-support-staff-shirt"/>
+    <title>Male Nurse Shirt - MNT06</title>
+    <s:type>Male Nurse Shirt</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/MNT06-PL-front.jpg?v=1617188479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Male Nurse Shirt<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:tag>male_nurse_shirt_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Plum / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-PL-XS</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Plum / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-PL-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Plum / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-PL-M</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Plum / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-PL-L</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Plum / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-PL-XL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Plum / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-PL-XXL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Beige / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-BG-XS</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Beige / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-BG-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Beige / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-BG-M</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Beige / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-BG-L</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Beige / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-BG-XL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Beige / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-BG-XXL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Ash Green / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-AG-XS</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Ash Green / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-AG-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Ash Green / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-AG-M</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Ash Green / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-AG-L</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Ash Green / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-AG-XL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572001815</id>
+      <title>Ash Green / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT06-AG-XXL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+    <published>2020-07-06T08:32:13+05:30</published>
+    <updated>2020-07-06T08:32:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/male-nurse-pant"/>
+    <title>Male Nurse Pants</title>
+    <s:type>Male Nurse Pant</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/mnt01-navy-blue_2.jpg?v=1568878521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Male Nurse Pant<br>
+        <strong>Price: </strong>
+            590.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:tag>male_nurse_pant_chart</s:tag>
+    <s:tag>MNP01</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>28 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-28</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>28 / Grey</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-GR-28</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>28 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-28</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>28 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-28</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>30 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-30</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>30 / Grey</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-GR-30</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>30 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-30</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>30 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-30</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>32 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-32</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>32 / Grey</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-GR-32</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>32 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-32</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>32 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-32</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>34 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-34</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>34 / Grey</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-GR-34</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>34 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-34</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>34 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-34</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>36 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-36</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>36 / Grey</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-GR-36</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>36 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-36</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>36 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-36</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>38 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-38</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>38 / Grey</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-GR-38</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>38 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-38</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>38 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-38</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>40 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-40</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>40 / Grey</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-GR-40</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>40 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-40</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>40 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-40</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>42 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-42</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>42 / Grey</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-GR-42</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>42 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-42</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>42 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-42</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>44 / Navy Blue</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-NB-44</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>44 / Indigo</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-IN-44</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572591639</id>
+      <title>44 / Plum</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku>MNP-PL-44</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+    <published>2020-07-06T08:31:39+05:30</published>
+    <updated>2020-07-06T08:31:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/male-nurse-shirt-mnt01"/>
+    <title>Male Nurse Shirt - MNT01</title>
+    <s:type>Male Nurse Shirt</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/MNS01-TW-45.jpg?v=1617188310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Male Nurse Shirt<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:tag>male_nurse_shirt_chart</s:tag>
+    <s:tag>MNT01</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Teal / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-Teal-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Teal / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-Teal-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Teal / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-Teal-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Teal / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-Teal-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Teal / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-Teal-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Teal / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-Teal-XXL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Blue / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LB-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Blue / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LB-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Blue / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LB-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Blue / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LB-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Blue / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LB-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Blue / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LB-XXL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Teal / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LT-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Teal / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LT-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Teal / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LT-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Teal / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LT-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Teal / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LT-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Teal / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LT-XXL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Ginger Yellow / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GY-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Ginger Yellow / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GY-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Ginger Yellow / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GY-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Ginger Yellow / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GY-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Ginger Yellow / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GY-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Ginger Yellow / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GY-XXL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Mint Green / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-MG-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Mint Green / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-MG-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Mint Green / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-MG-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Mint Green / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-MG-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Mint Green / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-MG-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Mint Green / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-MG-XXL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>White / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-W-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>White / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-W-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>White / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-W-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>White / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-W-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>White / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-W-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>White / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-W-XXL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LP-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LP-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LP-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LP-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LP-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LP-XXL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Aqua / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-AQT-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Aqua / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-AQT-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Aqua / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-AQT-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Aqua / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-AQT-L</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Aqua / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-AQT-XL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Aqua / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-AQT-XXL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple Navy / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LPN-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple Navy / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LPN-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple Navy / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LPN-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple Navy / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LPN-L</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple Navy / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LPN-XL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Light Purple Navy / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-LPN-XXL</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Beige / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-BG-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Beige / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-BG-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Beige / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-BG-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Beige / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-BG-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Beige / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-BG-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Beige / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-BG-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Jazz Blue / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-JB-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Jazz Blue / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-JB-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Jazz Blue / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-JB-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Jazz Blue / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-JB-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Jazz Blue / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-JB-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Jazz Blue / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-JB-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Green / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GRN-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Green / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GRN-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Green / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GRN-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Green / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GRN-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Green / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GRN-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Green / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-GRN-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Violet / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-VIO-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Violet / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-VIO-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Violet / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-VIO-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Violet / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-VIO-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Violet / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-VIO-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Violet / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-VIO-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Royal Blue / XS-36</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-RB-XS</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Royal Blue / S-38</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-RB-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Royal Blue / M-40</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-RB-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Royal Blue / L-42</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-RB-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Royal Blue / XL-44</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-RB-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572657175</id>
+      <title>Royal Blue / XXL-46</title>
+      <s:price currency="INR">575.00</s:price>
+      <s:sku>MNT01-RB-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+    <published>2020-06-21T18:19:00+05:30</published>
+    <updated>2020-06-21T18:19:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/nurse-uniform-nt10"/>
+    <title>Female Nurse Uniform NT10</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT10-MGY-front.jpg?v=1617181408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:tag>UC-NT10</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Mint Green / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-MGreen-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Mint Green / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-MGreen-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Mint Green / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-MGreen-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Mint Green / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-MGreen-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Mint Green / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-MGreen-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Ginger Yellow / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-GYellow-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Ginger Yellow / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-GYellow-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Ginger Yellow / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-GYellow-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Ginger Yellow / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-GYellow-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Ginger Yellow / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-GYellow-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Beige / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-BeigeY-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Beige / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-BeigeY-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Beige / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-BeigeY-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Beige / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-BeigeY-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Beige / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-BeigeY-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Mint Green / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-MGreen-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Ginger Yellow / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-GYellow-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572821015</id>
+      <title>Beige / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT10-BeigeY-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+    <published>2020-06-21T18:18:00+05:30</published>
+    <updated>2020-06-21T18:18:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-nurse-uniform-nt03-oakbrown-yellow"/>
+    <title>Female Nurse Uniform NT03</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/NT03-LAVENDAR-FRONT.jpg?v=1695120436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:tag>UC-NT03</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Lavender / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-LAV-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Lavender / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-LAV-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Lavender / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-LAV-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Lavender / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-LAV-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Lavender / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-LAV-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Teal / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-TealNavy-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Teal / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-TealNavy-M</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Teal / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-TealNavy-L</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Teal / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-TealNavy-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Teal / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-TealNavy-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Teal / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-TealNavy-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>White / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-WJB-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>White / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-WJB-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>White / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-WJB-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>White / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-WJB-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>White / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-WJB-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>White / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-WJB-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Green / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-GRN-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Green / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-GRN-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Green / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-GRN-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Green / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-GRN-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Green / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-GRN-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Green / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-GRN-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573738519</id>
+      <title>Lavender / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT03-LAV-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+    <published>2020-06-21T18:18:00+05:30</published>
+    <updated>2020-06-21T18:18:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/nt02-female-nurse-uniform"/>
+    <title>Female Nurse Uniform NT02</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/NT02-LB-FRONT_1983c835-6a77-41eb-baba-e01dafafd989.jpg?v=1695287023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:tag>UC-NT02</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Blue / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LBNB-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Blue / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LBNB-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Blue / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LBNB-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Blue / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LBNB-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Blue / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LBNB-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Blue / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LBNB-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Beige / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-BGNB-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Beige / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-BG-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Beige / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-BGNB-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Beige / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-BGNB-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Beige / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-BGNB-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Beige / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-BGNB-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Purple / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LPNB-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Purple / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LPNB-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Purple / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LPNB-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Purple / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LPNB-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Purple / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LPNB-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Light Purple / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-LPNB-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Aqua / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-AquaB-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Aqua / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-AquaB-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Aqua / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-AquaB-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Aqua / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-AquaB-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Aqua / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-AquaB-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Aqua / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-AquaB-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Teal / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-Teal-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Teal / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-Teal-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Teal / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-Teal-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Teal / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-Teal-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Teal / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-Teal-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Teal / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-Teal-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Red / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-RD-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Red / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-RD-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Red / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-RD-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Red / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-RD-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Red / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-RD-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101572722711</id>
+      <title>Red / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT02-RD-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+    <published>2020-06-21T18:03:01+05:30</published>
+    <updated>2020-06-21T18:03:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/nurse-uniform-nt09-ginger-yellow-navy"/>
+    <title>Female Nurse Uniform NT09</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT09-GYNB-front.jpg?v=1617181233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:tag>UC-NT09</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Ginger Yellow / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-GYellow-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Ginger Yellow / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-GYellow-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Ginger Yellow / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-GYellow-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Ginger Yellow / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-GYellow-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Ginger Yellow / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-GYellow-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Ginger Yellow / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-GYellow-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Mint Green / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-MG-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Mint Green / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-MG-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Mint Green / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-MG-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Mint Green / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-MG-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Mint Green / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-MG-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>Mint Green / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-MG-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>White / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-WhiteNavy-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>White / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-WhiteNavy-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>White / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-WhiteNavy-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>White / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-WhiteNavy-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>White / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-WhiteNavy-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573640215</id>
+      <title>White / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT09-WN-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+    <published>2020-06-21T18:03:00+05:30</published>
+    <updated>2020-06-21T18:03:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/nurse-uniform-nt07-light-teal-navy"/>
+    <title>Female Nurse Uniform NT07</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT07-INRIso.jpg?v=1683182936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:tag>UC-NT07</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Royal Blue / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-RB-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Royal Blue / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-RB-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Royal Blue / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-RB-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Royal Blue / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-RB-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Royal Blue / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-RB-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Royal Blue / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-RB-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Aqua / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-AQW-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Aqua / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-AQW-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Aqua / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-AQW-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Aqua / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-AQW-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Aqua / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-AQW-2XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Aqua / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-AQW-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Light Teal / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-LTeal-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Light Teal / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-LTeal-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Light Teal / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-LTeal-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Light Teal / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-LTeal-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Light Teal / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-LTeal-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Light Teal / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-LTeal-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Jazz Blue / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-JBM-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Jazz Blue / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-JBM-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Jazz Blue / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-JBM-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Jazz Blue / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-JBM-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Jazz Blue / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-JBM-2XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Jazz Blue / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-JBM-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Pink / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-PINK-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Pink / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-PINK-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Pink / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-PINK-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Pink / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-PINK-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Pink / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-PINK-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573541911</id>
+      <title>Pink / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT07-PINK-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+    <published>2020-06-21T18:02:00+05:30</published>
+    <updated>2020-06-21T18:02:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/nurse-uniform-nt04-sky-blue-yellow"/>
+    <title>Female Nurse Uniform NT04</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT04-PinkG.jpg?v=1691396341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Pink / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-PinkGrey-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Pink / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-PinkGrey-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Pink / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-PinkGrey-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Pink / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-PinkGrey-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Pink / 2XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-PinkGrey-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Pink / 3XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-PinkGrey-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Violet / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-VIO-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Violet / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-VIO-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Violet / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-VIO-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Violet / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-VIO-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Violet / 2XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-VIO-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Violet / 3XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-VIO-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Jazz Blue / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-JB-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Jazz Blue / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-JB-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Jazz Blue / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-JB-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Jazz Blue / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-JB-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Jazz Blue / 2XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-JB-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Jazz Blue / 3XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-JB-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Light Blue / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-LBY-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Light Blue / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-LBY-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Light Blue / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-LBY-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Light Blue / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-LBY-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Light Blue / 2XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-LBY-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573509143</id>
+      <title>Light Blue / 3XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT04-LBY-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+    <published>2020-06-21T17:10:00+05:30</published>
+    <updated>2020-06-21T17:10:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/nursing-uniform-set-nt01-1"/>
+    <title>Female Nurse Uniform  NT01</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/NT01-PINK-FRONT_6be4d629-4ec1-4ec6-b605-9b10b876be9e.jpg?v=1695119577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:tag>UC-NT01</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Pink / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-Pink-S</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Pink / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-Pink-M</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Pink / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-Pink-L</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Pink / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-Pink-XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Pink / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-Pink-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Pink / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-Pink-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Blue / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LB-S</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Blue / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LB-M</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Blue / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LB-L</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Blue / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LB-XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Blue / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LB-XXL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Blue / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LB-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>White / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-WH-S</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>White / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-WH-M</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>White / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-WH-L</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>White / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-WH-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>White / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-WH-XXL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>White / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-WH-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Mint Green / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-MintG-S</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Mint Green / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-MintG-M</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Mint Green / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-MintG-L</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Mint Green / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-MintG-XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Mint Green / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-MintG-XXL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Mint Green / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-MG-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Ash Green / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-AshG-S</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Ash Green / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-AshG-M</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Ash Green / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-AshG-L</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Ash Green / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-AshG-XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Ash Green / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-AshG-XXL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Ash Green / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-AshG-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Purple / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LPurple-S</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Purple / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LPurple-M</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Purple / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LPurple-L</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Purple / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LPurple-XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Purple / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LPurple-XXL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Light Purple / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LPurple-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Violet / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-VI-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Violet / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-VI-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Violet / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-VI-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Violet / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-VI-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Violet / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-VI-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Violet / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-VI-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Royal Blue / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-RB-S</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Royal Blue / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-RB-M</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Royal Blue / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-RB-L</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Royal Blue / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-RB-XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Royal Blue / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-RB-XXL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Royal Blue / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-RB-3XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Lavendar / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LAV-WH-S</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Lavendar / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LAV-WH-M</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Lavendar / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LAV-WH-L</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Lavendar / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LAV-WH-XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Lavendar / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LAV-WH-XXL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573181463</id>
+      <title>Lavendar / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT01-LAV-WH-3XL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+    <published>2020-06-21T16:56:16+05:30</published>
+    <updated>2020-06-21T16:56:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/nurse-uniform-set-nt11-light-purple-white"/>
+    <title>Female Nurse Uniform  NT11</title>
+    <s:type>Women Nurse Uniform Set</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/NT11-LP-front.jpg?v=1617180461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Nurse Uniform Set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_nurse_chart</s:tag>
+    <s:tag>UC-NT11</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Purple / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LPurple-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Purple / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LPurple-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Purple / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LPurple-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Purple / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LPurple-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Purple / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LPurple-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Purple / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LP-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Teal / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LTeal-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Teal / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LTeal-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Teal / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LTeal-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Teal / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LTeal-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Teal / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LTeal-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Light Teal / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-LT-3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Forest Green / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-FG-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Forest Green / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-FG-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Forest Green / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-FG-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Forest Green / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-FG-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Forest Green / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-FG-2XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Violet / S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-VYD-V-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Violet / M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-VYD-V-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Violet / L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-VYD-V-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Violet / XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-VYD-V-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Violet / XXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-VYD-V-2XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/4101573574679</id>
+      <title>Violet / XXXL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NT11-VYD-V-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

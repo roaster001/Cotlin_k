@@ -1,0 +1,4675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/all.atom</id>
+  <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/all"/>
+  <link rel="self" type="application/atom+xml" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/scrub-suits.atom"/>
+  <title>Uniform Craft</title>
+  <updated>2024-03-27T16:35:11+05:30</updated>
+  <author>
+    <name>Uniform Craft</name>
+  </author>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+    <published>2024-03-27T16:35:11+05:30</published>
+    <updated>2024-03-27T16:35:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/uc-stretch-male-straight-pants"/>
+    <title>UC Stretch - Male Straight Pants</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/g1193.png?v=1712052630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ucstretch_male_straight_pants_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Neptune / XS</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-NP-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Neptune / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-NP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Neptune / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-NP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Neptune / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-NP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Neptune / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-NP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Neptune / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-NP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sapphire / XS</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SP-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sapphire / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sapphire / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sapphire / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sapphire / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sapphire / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sage / XS</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SA-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sage / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sage / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sage / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sage / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Sage / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SA-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Jade Blue / XS</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-JDB-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Jade Blue / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-JDB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Jade Blue / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-JDB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Jade Blue / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-JDB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Jade Blue / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-JDB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Jade Blue / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-JDB-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Wine / XS</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-WN-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Wine / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-WN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Wine / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-WN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Wine / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-WN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Wine / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-WN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Wine / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-WN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Slate / XS</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Slate / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Slate / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Slate / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Slate / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Slate / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-SL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Cool Black / XS</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-CBLK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Cool Black / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-CBLK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Cool Black / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-CBLK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Cool Black / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-CBLK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Cool Black / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-CBLK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744668409</id>
+      <title>Cool Black / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPM-CBLK-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+    <published>2024-03-27T16:34:47+05:30</published>
+    <updated>2024-03-27T16:34:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/uc-stretch-male-scrub-top"/>
+    <title>UC Stretch - Male Scrub Top</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/123.png?v=1711539452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ucstretch_male_scrub_top_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Neptune / XS</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-NP-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Neptune / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-NP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Neptune / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-NP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Neptune / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-NP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Neptune / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-NP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Neptune / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-NP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sapphire / XS</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SP-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sapphire / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sapphire / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sapphire / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sapphire / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sapphire / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sage / XS</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SA-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sage / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sage / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sage / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sage / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Sage / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SA-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Jade Blue / XS</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-JDB-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Jade Blue / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-JDB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Jade Blue / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-JDB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Jade Blue / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-JDB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Jade Blue / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-JDB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Jade Blue / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-JDB-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Wine / XS</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-WN-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Wine / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-WN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Wine / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-WN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Wine / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-WN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Wine / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-WN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Wine / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-WN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Slate / XS</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Slate / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Slate / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Slate / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Slate / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Slate / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-SL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Cool Black / XS</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-CBLK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Cool Black / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-CBLK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Cool Black / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-CBLK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Cool Black / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-CBLK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Cool Black / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-CBLK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994738114809</id>
+      <title>Cool Black / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STM-CBLK-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+    <published>2024-03-27T16:34:34+05:30</published>
+    <updated>2024-03-27T16:34:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/uc-stretch-male-joggers-regular-length"/>
+    <title>UC Stretch - Male Joggers - Regular Length</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/image1141.png?v=1712052675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ucstretch_male_straight_pants_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Neptune / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-NP-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Neptune / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-NP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Neptune / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-NP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Neptune / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-NP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Neptune / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-NP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Neptune / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-NP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sapphire / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SP-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sapphire / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sapphire / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sapphire / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sapphire / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sapphire / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sage / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SA-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sage / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sage / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sage / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sage / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Sage / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SA-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Jade Blue / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-JDB-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Jade Blue / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-JDB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Jade Blue / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-JDB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Jade Blue / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-JDB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Jade Blue / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-JDB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Jade Blue / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-JDB-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Wine / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-WN-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Wine / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-WN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Wine / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-WN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Wine / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-WN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Wine / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-WN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Wine / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-WN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Slate / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Slate / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Slate / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Slate / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Slate / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Slate / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-SL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Cool Black / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-CBLK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Cool Black / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-CBLK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Cool Black / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-CBLK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Cool Black / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-CBLK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Cool Black / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-CBLK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994739982585</id>
+      <title>Cool Black / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRM-CBLK-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+    <published>2024-03-27T16:34:21+05:30</published>
+    <updated>2024-03-27T16:34:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/uc-stretch-male-joggers-long-length"/>
+    <title>UC Stretch - Male Joggers - Long Length</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/image1141_fa4d88ca-d511-40aa-b110-dee79c2b9490.png?v=1712052711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ucstretch_male_straight_pants_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Neptune / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-NP-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Neptune / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-NP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Neptune / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-NP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Neptune / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-NP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Neptune / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-NP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sapphire / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SP-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sapphire / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sapphire / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sapphire / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sapphire / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sage / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SA-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sage / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sage / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sage / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Sage / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Jade Blue / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-JDB-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Jade Blue / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-JDB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Jade Blue / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-JDB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Jade Blue / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-JDB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Jade Blue / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-JDB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Wine / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-WN-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Wine / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-WN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Wine / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-WN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Wine / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-WN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Wine / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-WN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Slate / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Slate / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Slate / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Slate / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Slate / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-SL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Cool Black / XS</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-CBLK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Cool Black / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-CBLK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Cool Black / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-CBLK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Cool Black / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-CBLK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994742407417</id>
+      <title>Cool Black / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLM-CBLK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+    <published>2024-03-27T16:34:02+05:30</published>
+    <updated>2024-03-27T16:34:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/uc-stretch-female-straight-pants"/>
+    <title>UC Stretch - Female Straight Pants</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/g1020_cfef4653-317a-40af-9cc0-ad654f46431f.png?v=1711773778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ucstretch _female_straight_Pants_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sapphire / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sapphire / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sapphire / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sapphire / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sapphire / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Neptune / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-NP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Neptune / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-NP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Neptune / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-NP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Neptune / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-NP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Neptune / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-NP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sage / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sage / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sage / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sage / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Sage / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SA-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Jade Blue / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-JDB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Jade Blue / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-JDB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Jade Blue / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-JDB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Jade Blue / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-JDB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Jade Blue / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-JDB-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Wine / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-WN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Wine / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-WN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Wine / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-WN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Wine / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-WN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Wine / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-WN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Slate / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Slate / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Slate / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Slate / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Slate / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-SL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Cool Black / S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-CBLK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Cool Black / M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-CBLK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Cool Black / L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-CBLK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Cool Black / XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-CBLK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746994937</id>
+      <title>Cool Black / 2XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>UC-SPF-CBLK-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+    <published>2024-03-27T16:33:51+05:30</published>
+    <updated>2024-03-27T16:33:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/uc-stretch-female-scrub-top-1"/>
+    <title>UC Stretch - Female Scrub Top</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/SaphFemaleTop.png?v=1711773665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ucstretch_female_top_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sapphire / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sapphire / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sapphire / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sapphire / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sapphire / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Neptune / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-NP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Neptune / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-NP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Neptune / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-NP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Neptune / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-NP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Neptune / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-NP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sage / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sage / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sage / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sage / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Sage / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SA-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Jade Blue / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-JDB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Jade Blue / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-JDB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Jade Blue / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-JDB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Jade Blue / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-JDB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Jade Blue / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-JDB-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Wine / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-WN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Wine / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-WN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Wine / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-WN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Wine / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-WN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Wine / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-WN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Slate / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Slate / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Slate / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Slate / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Slate / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-SL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Cool Black / S</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-CBLK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Cool Black / M</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-CBLK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Cool Black / L</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-CBLK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Cool Black / XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-CBLK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994744930553</id>
+      <title>Cool Black / 2XL</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>UC-STF-CBLK-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+    <published>2024-03-27T16:33:39+05:30</published>
+    <updated>2024-03-27T16:33:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/uc-stretch-female-joggers-regular-length"/>
+    <title>UC Stretch - Female Joggers - Regular Length</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/g1119.png?v=1711774408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ucstretch _female_straight_Pants_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sapphire / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sapphire / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sapphire / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sapphire / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sapphire / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Neptune / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-NP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Neptune / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-NP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Neptune / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-NP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Neptune / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-NP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Neptune / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-NP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sage / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sage / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sage / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sage / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Sage / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SA-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Jade Blue / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-JDB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Jade Blue / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-JDB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Jade Blue / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-JDB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Jade Blue / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-JDB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Jade Blue / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-JDB-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Wine / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-WN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Wine / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-WN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Wine / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-WN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Wine / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-WN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Wine / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-WN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Slate / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Slate / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Slate / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Slate / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Slate / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-SL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Cool Black / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-CBLK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Cool Black / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-CBLK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Cool Black / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-CBLK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Cool Black / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-CBLK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994746536185</id>
+      <title>Cool Black / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JRF-CBLK-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+    <published>2024-03-27T16:33:24+05:30</published>
+    <updated>2024-03-27T16:33:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/uc-stretch-female-joggers-long-length"/>
+    <title>UC Stretch - Female Joggers - Long Length</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/g1119_c535e0e6-ec06-4254-a812-f5da0b8820fd.png?v=1711774432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ucstretch _female_straight_Pants_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sapphire / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sapphire / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sapphire / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sapphire / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sapphire / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Neptune / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-NP-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Neptune / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-NP-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Neptune / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-NP-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Neptune / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-NP-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Neptune / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-NP-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sage / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sage / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sage / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sage / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Sage / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SA-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Jade Blue / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-JDB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Jade Blue / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-JDB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Jade Blue / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-JDB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Jade Blue / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-JDB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Jade Blue / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-JDB-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Wine / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-WN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Wine / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-WN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Wine / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-WN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Wine / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-WN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Wine / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-WN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Slate / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Slate / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Slate / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Slate / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Slate / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-SL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Cool Black / S</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-CBLK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Cool Black / M</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-CBLK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Cool Black / L</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-CBLK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Cool Black / XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-CBLK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7994745815289</id>
+      <title>Cool Black / 2XL</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>UC-JLLF-CBLK-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8054316040441</id>
+    <published>2024-03-18T16:24:26+05:30</published>
+    <updated>2024-03-18T16:24:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-uc-stretch-female-scrub-top"/>
+    <title>Male Denim Scrubs DNM-SM</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/DENIM-MEN.jpg?v=1710506328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>male_denim_scrubs_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8054316040441</id>
+      <title>S</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SM-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8054316040441</id>
+      <title>M</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SM-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8054316040441</id>
+      <title>L</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SM-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8054316040441</id>
+      <title>XL</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SM-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8054316040441</id>
+      <title>XXL</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SM-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8055691837689</id>
+    <published>2024-03-18T16:07:42+05:30</published>
+    <updated>2024-03-18T16:07:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/denim-scrubs-female"/>
+    <title>Female Denim Scrubs DNM-SF</title>
+    <s:type>UC Stretch</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/DENIM-WOMEN.jpg?v=1710506248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>UC Stretch<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>female_denim_scrubs_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8055691837689</id>
+      <title>S</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SF-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8055691837689</id>
+      <title>M</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SF-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8055691837689</id>
+      <title>L</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SF-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8055691837689</id>
+      <title>XL</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SF-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/8055691837689</id>
+      <title>XXL</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>DNM-SF-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611245305</id>
+    <published>2023-10-14T16:37:10+05:30</published>
+    <updated>2023-10-14T16:37:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/male-underscrubs-half-sleeve"/>
+    <title>Male Underscrubs - Half Sleeve</title>
+    <s:type>Male Underscrubs</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/MS-FRONT.jpg?v=1697274691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Male Underscrubs<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:tag>New_Arrivals</s:tag>
+    <s:tag>underscrub_male_chart</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611245305</id>
+      <title>S</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSM-WH-S</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611245305</id>
+      <title>M</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSM-WH-M</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611245305</id>
+      <title>L</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSM-WH-L</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611245305</id>
+      <title>XL</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSM-WH-XL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611245305</id>
+      <title>XXL</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSM-WH-XXL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611966201</id>
+    <published>2023-10-14T16:36:57+05:30</published>
+    <updated>2023-10-14T16:36:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-male-underscrubs-half-sleeve-1"/>
+    <title>Female Underscrubs - Half Sleeve</title>
+    <s:type>Female Underscrubs</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/FSS-FRONT2.jpg?v=1697276228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Female Underscrubs<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>New_Arrivals</s:tag>
+    <s:tag>underscrub_female_chart</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611966201</id>
+      <title>S</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSF-WH-S</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611966201</id>
+      <title>M</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSF-WH-M</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611966201</id>
+      <title>L</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSF-WH-L</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611966201</id>
+      <title>XL</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSF-WH-XL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611966201</id>
+      <title>XXL</title>
+      <s:price currency="INR">390.00</s:price>
+      <s:sku>UST-HSF-WH-XXL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+    <published>2023-10-14T16:36:47+05:30</published>
+    <updated>2023-10-14T16:36:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-male-underscrubs-full-sleeve"/>
+    <title>Female Underscrubs - Full Sleeve</title>
+    <s:type>Female Underscrubs</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/FFS-FRONT.jpg?v=1697276510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Female Underscrubs<br>
+        <strong>Price: </strong>
+            490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>New_Arrivals</s:tag>
+    <s:tag>underscrub_female_chart</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>S / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-WH-S</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>S / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-BL-S</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>M / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-WH-M</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>M / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-BL-M</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>L / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-WH-L</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>L / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-BL-L</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>XL / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-WH-XL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>XL / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-BL-XL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>XXL / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-WH-XXL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978612719865</id>
+      <title>XXL / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSF-BL-XXL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+    <published>2023-10-14T16:36:29+05:30</published>
+    <updated>2023-10-14T16:36:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-male-underscrubs-half-sleeve"/>
+    <title>Male Underscrubs - Full Sleeve</title>
+    <s:type>Male Underscrubs</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/MFS-FRONT2.jpg?v=1697275453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Male Underscrubs<br>
+        <strong>Price: </strong>
+            490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:tag>New_Arrivals</s:tag>
+    <s:tag>underscrub_male_chart</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>S / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-WH-S</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>S / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-BL-S</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>M / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-WH-M</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>M / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-BL-M</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>L / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-WH-L</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>L / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-BL-L</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>XL / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-WH-XL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>XL / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-BL-XL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>XXL / White</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-WH-XXL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7978611343609</id>
+      <title>XXL / Black</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku>UST-FSM-BL-XXL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235411193</id>
+    <published>2023-08-04T15:05:45+05:30</published>
+    <updated>2023-08-04T15:05:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/unisex-scrub-suit-vdsv-purr-fect-combo"/>
+    <title>Unisex Scrub Suit VDSV Purr-fect Combo</title>
+    <s:type>Unisex Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/VDSVCats.png?v=1691141739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Unisex Scrub<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New_Arrivals</s:tag>
+    <s:tag>unisex_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235411193</id>
+      <title>XS</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-PF-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235411193</id>
+      <title>S</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-PF-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235411193</id>
+      <title>M</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-PF-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235411193</id>
+      <title>L</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-PF-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235411193</id>
+      <title>XL</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-PF-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235411193</id>
+      <title>2XL</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-PF-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235050745</id>
+    <published>2023-08-04T15:04:59+05:30</published>
+    <updated>2023-08-04T15:04:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/unisex-scrub-suit-vdsv-bone-collector-combo"/>
+    <title>Unisex Scrub Suit VDSV Bone Collector Combo</title>
+    <s:type>Unisex Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/VDSVBones.png?v=1691141693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Unisex Scrub<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New_Arrivals</s:tag>
+    <s:tag>unisex_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235050745</id>
+      <title>XS</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-BC-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235050745</id>
+      <title>S</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-BC-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235050745</id>
+      <title>M</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-BC-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235050745</id>
+      <title>L</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-BC-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235050745</id>
+      <title>XL</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-BC-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7953235050745</id>
+      <title>2XL</title>
+      <s:price currency="INR">1650.00</s:price>
+      <s:sku>VDSV-BC-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+    <published>2023-06-10T10:07:25+05:30</published>
+    <updated>2023-06-10T10:07:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-scrub-suit-round-neck-dsu"/>
+    <title>Female Scrub Suit - Round Neck - DSU</title>
+    <s:type>Women Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/IMG_7379.jpg?v=1686308657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Scrub<br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>female_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Olive Blue / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-OLB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Olive Blue / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-OLB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Olive Blue / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-OLB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Olive Blue / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-OLB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Olive Blue / 2XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-OLB-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Olive Blue / 3XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-OLB-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Burgundy / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-BU-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Burgundy / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-BU-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Burgundy / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-BU-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Burgundy / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-BU-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Burgundy / 2XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-BU-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Burgundy / 3XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-BU-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Forest Green / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-FG-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Forest Green / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-FG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Forest Green / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-FG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Forest Green / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-FG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Forest Green / 2XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-FG-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933324656889</id>
+      <title>Forest Green / 3XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-F-FG-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+    <published>2023-04-25T12:34:15+05:30</published>
+    <updated>2023-04-25T12:34:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/mens-scrub-suit-round-neck-dsu"/>
+    <title>Male Scrub Suit - Round Neck - DSU</title>
+    <s:type>Mens Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/IMG_1526_555f4128-3ad5-4e0e-81af-37763866cfdf.jpg?v=1682406526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Mens Scrub<br>
+        <strong>Price: </strong>
+            990.00 - 1090.00
+            <a href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/mens-scrub-suit-round-neck-dsu">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>male_scrub_chart</s:tag>
+    <s:tag>New_Arrivals</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Olive Blue / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-OLB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Olive Blue / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-OLB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Olive Blue / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-OLB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Olive Blue / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-OLB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Olive Blue / 2XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-OLB-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Olive Blue / 3XL</title>
+      <s:price currency="INR">1090.00</s:price>
+      <s:sku>DSU-M-OLB-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Forest Green / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-FG-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Forest Green / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-FG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Forest Green / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-FG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Forest Green / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-FG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Forest Green / 2XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-FG-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Forest Green / 3XL</title>
+      <s:price currency="INR">1090.00</s:price>
+      <s:sku>DSU-M-FG-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Burgundy (Wine) / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-BU-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Burgundy (Wine) / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-BU-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Burgundy (Wine) / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-BU-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Burgundy (Wine) / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-BU-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Burgundy (Wine) / 2XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSU-M-BU-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7917445677305</id>
+      <title>Burgundy (Wine) / 3XL</title>
+      <s:price currency="INR">1090.00</s:price>
+      <s:sku>DSU-M-BU-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+    <published>2022-02-23T13:00:01+05:30</published>
+    <updated>2022-02-23T13:00:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-mens-scrub-suit-dsv"/>
+    <title>Male Scrub Suit - V Neck - DSV New Colours</title>
+    <s:type>Mens Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/1.BURGANDY-M.jpg?v=1717567806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Mens Scrub<br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:tag>male_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>S / Light Grey</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-LGrey-S</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>S / Burgundy</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-BUR-S</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>S / Forest Green</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-FGR-S</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>M / Light Grey</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-LGrey-M</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>M / Burgundy</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-BUR-M</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>M / Forest Green</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-FGR-M</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>L / Light Grey</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-LGrey-L</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>L / Burgundy</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-BUR-L</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>L / Forest Green</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-FGR-L</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-LGrey-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>XL / Burgundy</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-BUR-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>XL / Forest Green</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-FGR-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-LGrey-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>2XL / Burgundy</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-BUR-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>2XL / Forest Green</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-FGR-XXL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>3XL / Light Grey</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-LGrey-3XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>3XL / Burgundy</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-BUR-3XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7542008578297</id>
+      <title>3XL / Forest Green</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSV-FGR-3XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+    <published>2022-02-23T13:00:00+05:30</published>
+    <updated>2022-02-23T13:00:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-scrub-suit-dsvx-new-colours"/>
+    <title>Female Scrub Suit - Cross V Neck - DSVX - New Colours</title>
+    <s:type>Women Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/1.BURGANDY.jpg?v=1717567472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Scrub<br>
+        <strong>Price: </strong>
+            990.00 - 1050.00
+            <a href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-scrub-suit-dsvx-new-colours">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fabric</strong></p>
+<ul>
+<li>Polyester Cotton </li>
+<li>Comfort of Cotton with durability of Polyester</li>
+<li>Not Bleach Resistant</li>
+<li>Colour may vary according to screen setting &amp; resolutions</li>
+</ul>
+<p><strong> </strong><strong>Scrub Suit</strong></p>
+<ul>
+<li>Sold as a set</li>
+<li>Comfort Fit</li>
+<li>Cross V-Neck</li>
+<li>Total of 4 pockets</li>
+<ul>
+<li>Top</li>
+<ul>
+<li>2 drop pockets</li>
+</ul>
+<li>Pant</li>
+<ul>
+<li>2 side pockets.</li>
+<li>Back Elastic &amp; Front Drawstring</li>
+</ul>
+</ul>
+<li>Ideal for user height 5’2" to 5’5"</li>
+</ul>
+<p><strong> </strong><strong>Wash care</strong></p>
+<p>Our uniforms lasts long if you care for it right.</p>
+<ul>
+<li>Wash Inside out</li>
+<li>Warm Machine Wash with similar colours</li>
+<li>DO NOT bleach </li>
+<li>Line dry in shade </li>
+<li>Warm Iron</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Berry / S</title>
+      <s:price currency="INR">1050.00</s:price>
+      <s:sku>DSVX-BER-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Berry / M</title>
+      <s:price currency="INR">1050.00</s:price>
+      <s:sku>DSVX-BER-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Berry / L</title>
+      <s:price currency="INR">1050.00</s:price>
+      <s:sku>DSVX-BER-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Berry / XL</title>
+      <s:price currency="INR">1050.00</s:price>
+      <s:sku>DSVX-BER-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Berry / XXL</title>
+      <s:price currency="INR">1050.00</s:price>
+      <s:sku>DSVX-BER-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Coral / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-COR-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Coral / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-COR-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Coral / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-COR-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Coral / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-COR-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Coral / XXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-COR-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Coral / XXXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-COR-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Light Grey / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LGREY-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Light Grey / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LGREY-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Light Grey / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LGREY-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Light Grey / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LGREY-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Light Grey / XXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LGREY-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Light Grey / XXXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LGREY-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Lilac / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LL-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Lilac / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LL-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Lilac / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LL-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Lilac / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LL-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Lilac / XXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LL-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Lilac / XXXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-LL-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Burgundy / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-BUR-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Burgundy / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-BUR-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Burgundy / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-BUR-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Burgundy / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-BUR-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Burgundy / XXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-BUR-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Burgundy / XXXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-BUR-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Forest Green / S</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-FGR-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Forest Green / M</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-FGR-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Forest Green / L</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-FGR-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Forest Green / XL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-FGR-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Forest Green / XXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-FGR-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6923725406358</id>
+      <title>Forest Green / XXXL</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>DSVX-FGR-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+    <published>2021-07-08T12:14:56+05:30</published>
+    <updated>2021-07-08T12:14:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/surgeon-gown-with-overlap-sgol"/>
+    <title>Surgeon Gown with Overlap - SGOL</title>
+    <s:type>Mens Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/products/SG-DT-OL.jpg?v=1623946288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Mens Scrub<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fabric</strong><br></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Spun</li>
+<li data-mce-fragment="1">Not Bleach Resistant</li>
+<li data-mce-fragment="1">Colour may vary according to screen setting &amp; resolutions</li>
+</ul>
+<p><b>Surgeon Gown</b><br></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Full Sleeve Gown with Elastic Cuff</li>
+<li data-mce-fragment="1">Inner secure tie</li>
+<li data-mce-fragment="1">Overlap with tie</li>
+<li data-mce-fragment="1">48" length</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Wash care</strong></p>
+<p data-mce-fragment="1">Our uniforms lasts long if you care for it right.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Warm Machine Wash with similar colours, </li>
+<li data-mce-fragment="1">Wash Inside out, </li>
+<li data-mce-fragment="1">Do not bleach, </li>
+<li data-mce-fragment="1">Line dry in shade, </li>
+<li data-mce-fragment="1">Warm Iron.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>M / Teal</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SG-DT-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>M / Olive Blue</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SG-OLB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>M / Ocean Blue</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SGOL-OB-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>XL / Teal</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SG-DT-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>XL / Olive Blue</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SG-OLB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>XL / Ocean Blue</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SGOL-OB-XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>XXL / Teal</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SG-DT-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>XXL / Olive Blue</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SG-OLB-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>XXL / Ocean Blue</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SGOL-OB-XXL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/6859827675286</id>
+      <title>L / Ocean Blue</title>
+      <s:price currency="INR">700.00</s:price>
+      <s:sku>SGOL-OB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+    <published>2020-11-27T16:55:42+05:30</published>
+    <updated>2020-11-27T16:55:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/mens-scrub-suit-designer-dsdv04"/>
+    <title>Male Scrub Suit Designer - DSDV04</title>
+    <s:type>Mens Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/1.FRONT_5_24660366-b843-4dc1-98e0-2a269201f1f3.jpg?v=1702966629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Mens Scrub<br>
+        <strong>Price: </strong>
+            1275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:tag>male_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>S / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKG-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>S / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKR-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>S / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-GRMG-S</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>S / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-OLBGR-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>M / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKG-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>M / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKR-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>M / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-GRMG-M</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>M / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-OLBGR-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>L / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKG-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>L / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKR-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>L / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-GRMG-L</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>L / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-OLBGR-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XL / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKG-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XL / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKR-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XL / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-GRMG-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XL / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-OLBGR-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XXL / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKG-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XXL / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKR-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XXL / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-GRMG-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XXL / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-OLBGR-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XXXL / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKG-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XXXL / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-BLKR-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XXXL / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-GRMG-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950440243350</id>
+      <title>XXXL / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV04-OLBGR-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+    <published>2020-11-27T16:20:07+05:30</published>
+    <updated>2020-11-27T16:20:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/mens-scrub-suit-designer-dsdv03"/>
+    <title>Mens Scrub Suit Designer - DSDV03</title>
+    <s:type>Mens Scrub</s:type>
+    <s:vendor>FineYarns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/1.FRONT_1_5f19dc07-e500-4eba-8f8f-ffdaea40c972.jpg?v=1702964115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FineYarns<br>
+        <strong>Type: </strong>Mens Scrub<br>
+        <strong>Price: </strong>
+            1275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Male</s:tag>
+    <s:tag>male_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>S / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-BBW-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>S / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OLB-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>S / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OB-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>S / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-LT-S</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>M / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-BBW-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>M / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OLB-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>M / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OB-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>M / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-LT-M</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>L / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-BBW-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>L / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OLB-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>L / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OB-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>L / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-LT-L</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XL / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-BBW-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XL / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OLB-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XL / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OB-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XL / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-LT-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XXL / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-BBW-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XXL / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OLB-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XXL / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OB-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XXL / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-LT-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XXXL / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-BBW-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XXXL / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OLB-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XXXL / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-OB-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5950318510230</id>
+      <title>XXXL / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDV03-LT-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+    <published>2020-11-10T14:38:45+05:30</published>
+    <updated>2020-11-10T14:38:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-scrub-suit-designer-dsdx04"/>
+    <title>Female Scrub Suit Designer DSDX04</title>
+    <s:type>Women Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/1.FRONT_1_aea39a2c-d045-4e4c-b82d-96532f370f49.jpg?v=1702966123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Scrub<br>
+        <strong>Price: </strong>
+            1275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>S / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKG-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>S / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKR-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>S / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-GRMG-S</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>S / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-OLBGR-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>M / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKG-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>M / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKR-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>M / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-GRMG-M</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>M / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-OLBGR-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>L / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKG-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>L / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKR-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>L / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-GRMG-L</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>L / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-OLBGR-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XL / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKG-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XL / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKR-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XL / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-GRMG-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XL / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-OLBGR-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XXL / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKG-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XXL / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKR-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XXL / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-GRMG-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XXL / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-OLBGR-2XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XXXL / Black / Lime Green / Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKG-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XXXL / Black / Island Blue / Red</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-BLKR-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XXXL / Grey / Light Grey / Marigold</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-GRMG-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5895978582166</id>
+      <title>XXXL / Olive Blue / Island Blue / Light Grey</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX04-OLBGR-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+    <published>2020-11-06T14:29:34+05:30</published>
+    <updated>2020-11-06T14:29:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/female-scrub-suit-designer-dsdx03"/>
+    <title>Female Scrub Suit Designer - DSDX03</title>
+    <s:type>Women Scrub</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/1.FRONT_1_d7f65fda-9102-4691-a9f8-52a30d209426.jpg?v=1702965689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Women Scrub<br>
+        <strong>Price: </strong>
+            1275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Female</s:tag>
+    <s:tag>female_scrub_chart</s:tag>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>S / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-BBW-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>S / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OLB-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>S / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OB-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>S / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-LT-S</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>M / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-BBW-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>M / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OLB-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>M / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OB-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>M / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-LT-M</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>L / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-BBW-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>L / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OLB-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>L / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OB-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>L / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-LT-L</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XL / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-BBW-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XL / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OLB-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XL / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OB-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XL / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-LT-XL</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XXL / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-BBW-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XXL / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OLB-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XXL / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OB-XXL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XXL / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-LT-XXL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XXXL / White / Bright Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-BBW-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XXXL / Island Blue / Olive Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OLB-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XXXL / Lime Green / Ocean Blue</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-OB-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/5885964255382</id>
+      <title>XXXL / Light Green / Light Teal</title>
+      <s:price currency="INR">1275.00</s:price>
+      <s:sku>DSDX03-LT-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

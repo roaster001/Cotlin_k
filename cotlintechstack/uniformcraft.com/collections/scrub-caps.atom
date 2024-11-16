@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/all.atom</id>
+  <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/all"/>
+  <link rel="self" type="application/atom+xml" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlcollections/scrub-caps.atom"/>
+  <title>Uniform Craft</title>
+  <updated>2023-06-14T12:21:30+05:30</updated>
+  <author>
+    <name>Uniform Craft</name>
+  </author>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933640769785</id>
+    <published>2023-06-14T12:21:30+05:30</published>
+    <updated>2023-06-14T12:21:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap-starry-night"/>
+    <title>Scrub Cap - Starry Night</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/StarryNight.png?v=1686385669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933640769785</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-STN</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933640868089</id>
+    <published>2023-06-14T12:20:38+05:30</published>
+    <updated>2023-06-14T12:20:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap-heart-beat"/>
+    <title>Scrub Cap - Heart Beat</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/Heartbeat.png?v=1686385912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933640868089</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-HB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933640966393</id>
+    <published>2023-06-14T12:20:21+05:30</published>
+    <updated>2023-06-14T12:20:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap-flora"/>
+    <title>Scrub Cap - Flora</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/Flora.png?v=1686385961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933640966393</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-FLO</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933641130233</id>
+    <published>2023-06-14T12:20:10+05:30</published>
+    <updated>2023-06-14T12:20:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-scrub-cap-code-blue"/>
+    <title>Scrub Cap - Bloom</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/Bloom_d95e7016-2073-42bd-a74f-b69a80b660eb.png?v=1686726561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933641130233</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-BLM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933639393529</id>
+    <published>2023-06-10T17:21:17+05:30</published>
+    <updated>2023-06-10T17:21:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap-spring"/>
+    <title>Scrub Cap - Spring</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/Spring.png?v=1686384382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933639393529</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-SPR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933641064697</id>
+    <published>2023-06-10T17:20:47+05:30</published>
+    <updated>2023-06-10T17:20:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/copy-of-scrub-cap-flora"/>
+    <title>Scrub Cap - Code Blue</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/CodeBlue.png?v=1686385986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933641064697</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-CB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933638869241</id>
+    <published>2023-06-10T13:17:45+05:30</published>
+    <updated>2023-06-10T13:17:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap-print-c-purr-fect"/>
+    <title>Scrub Cap - Print C (Purr-fect)</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/Purr-fect.png?v=1686383106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933638869241</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-C</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933639164153</id>
+    <published>2023-06-10T13:17:30+05:30</published>
+    <updated>2023-06-10T13:17:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap-print-d-puppy-love"/>
+    <title>Scrub Cap - Print D (Puppy Love)</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/PuppyLove.png?v=1686383219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7933639164153</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-D</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7926807986425</id>
+    <published>2023-06-10T13:07:54+05:30</published>
+    <updated>2023-06-10T13:07:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap-print-b"/>
+    <title>Scrub Cap - Print B (Bone Collector)</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/BoneCollector.png?v=1686382370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7926807986425</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7915067769081</id>
+    <published>2023-04-18T14:58:39+05:30</published>
+    <updated>2023-04-18T14:58:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap-buy-any-2"/>
+    <title>Scrub Cap - Print A (Furry Tails)</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/FurryTails.png?v=1686382202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7915067769081</id>
+      <title>Print A</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>SC-PRNT-A</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7491841458425</id>
+    <published>2021-12-22T15:35:44+05:30</published>
+    <updated>2021-12-22T15:35:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/scrub-cap"/>
+    <title>Scrub Cap - Pack of 2</title>
+    <s:type>Scrub caps</s:type>
+    <s:vendor>Uniform Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/7215/files/FPCC_eaed7110-a1b7-410c-b81e-641d8e4aa19e.png?v=1686376434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uniform Craft<br>
+        <strong>Type: </strong>Scrub caps<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7491841458425</id>
+      <title>Black</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>SC2-BLK-FPCC</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7491841458425</id>
+      <title>Bright Blue</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>SC2-BB-FPC</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7491841458425</id>
+      <title>Olive Blue</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>SC2-OLB-FPC</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7491841458425</id>
+      <title>Grey</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>SC2-GR-FPCC</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7491841458425</id>
+      <title>Light Teal</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>SC2-LT-FPCC</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7491841458425</id>
+      <title>Crimson Red</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>SC2-CR-FPCC</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>file:///C:/My%20Web%20Sites/cotlintechstack/uniformcraft.com/index.htmlproducts/7491841458425</id>
+      <title>Ocean Blue</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>SC2-OB-FPCC</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
